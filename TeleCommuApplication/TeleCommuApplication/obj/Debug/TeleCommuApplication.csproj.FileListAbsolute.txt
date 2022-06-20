@@ -1,0 +1,8 @@
+C:\Users\willi\source\repos\TeleCommuApplication\TeleCommuApplication\bin\Debug\TeleCommuApplication.exe.config
+C:\Users\willi\source\repos\TeleCommuApplication\TeleCommuApplication\bin\Debug\TeleCommuApplication.exe
+C:\Users\willi\source\repos\TeleCommuApplication\TeleCommuApplication\bin\Debug\TeleCommuApplication.pdb
+C:\Users\willi\source\repos\TeleCommuApplication\TeleCommuApplication\obj\Debug\TeleCommuApplication.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\TeleCommuApplication\TeleCommuApplication\obj\Debug\TeleCommuApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\TeleCommuApplication\TeleCommuApplication\obj\Debug\TeleCommuApplication.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\TeleCommuApplication\TeleCommuApplication\obj\Debug\TeleCommuApplication.exe
+C:\Users\willi\source\repos\TeleCommuApplication\TeleCommuApplication\obj\Debug\TeleCommuApplication.pdb
